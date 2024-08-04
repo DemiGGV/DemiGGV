@@ -1,6 +1,6 @@
 <h1>It's a 'welcome' header... 👨‍🎨</h1>
 
-### Hi there, I'm Heorhii 👋
+### Hi there, I'm Heorhii Honcharov 👋
 
 - 🔭 Working on **a lot of different stuff... really different**
 - 🌱 Learning **everything I can get my hands on... sometimes twice**
