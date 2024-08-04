@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Heorhii 👋
 
-- 🔭 Working on **a lot of different stuff... realy different**
+- 🔭 Working on **a lot of different stuff... really different**
 - 🌱 Learning **everything I can get my hands on... sometimes twice**
 
 Interesting facts about me:
