@@ -9,10 +9,12 @@
 - **https://www.linkedin.com/in/heorhii-honcharov**
 - **https://www.linkedin.com/in/heorhii-honcharov/**
 
+
 Interesting facts about me:
-- **as a child, I was professionally engaged in sports, namely: platform and springboard diving.**
-- **i have always dreamed of skydiving, but so far my dream has not come true.**
-- **basically, people are made up of sixty percent water, me - thirty percent ... and thirty percent coffee.**
+- 🏊‍♂️ **as a child, I was professionally engaged in sports, namely: platform and springboard diving.**
+- 🎈 **i have always dreamed of skydiving, but so far my dream has not come true.**
+- ☕ **basically, people are made up of sixty percent water, me - thirty percent ... and thirty percent coffee.**
+
 
 ### My stack
 
