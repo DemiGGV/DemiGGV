@@ -5,6 +5,9 @@
 - 🔭 Working on **a lot of different stuff... really different**
 - 🌱 Learning **everything I can get my hands on... sometimes twice**
 
+- 📪 You can find me:  **https://www.linkedin.com/in/heorhii-honcharov**
+                       **https://www.linkedin.com/in/heorhii-honcharov/**
+
 Interesting facts about me:
 - **as a child, I was professionally engaged in sports, namely: platform and springboard diving.**
 - **i have always dreamed of skydiving, but so far my dream has not come true.**
