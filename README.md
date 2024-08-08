@@ -7,7 +7,7 @@
 
 - 📪 You can find me:
 - **https://www.linkedin.com/in/heorhii-honcharov**
-- **https://www.linkedin.com/in/heorhii-honcharov/**
+- **https://www.xing.com/profile/Heorhii_Honcharov**
 
 
 Interesting facts about me:
