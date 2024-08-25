@@ -6,9 +6,9 @@
 - 🌱 Learning **everything I can get my hands on... sometimes twice**
 
 - 📪 You can find me:
-- **https://www.linkedin.com/in/heorhii-honcharov**
-- **https://www.xing.com/profile/Heorhii_Honcharov**
-- **https://demiggv.github.io/webdeveloper-honcharov/**
+- **[https://www.linkedin.com/in/heorhii-honcharov](LinkedIn account)**
+- **[https://www.xing.com/profile/Heorhii_Honcharov](Xing account)**
+- **[https://demiggv.github.io/webdeveloper-honcharov/](Portfolio site)**
 
 
 Interesting facts about me:
