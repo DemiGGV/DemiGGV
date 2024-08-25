@@ -8,6 +8,7 @@
 - 📪 You can find me:
 - **https://www.linkedin.com/in/heorhii-honcharov**
 - **https://www.xing.com/profile/Heorhii_Honcharov**
+- **https://demiggv.github.io/webdeveloper-honcharov/**
 
 
 Interesting facts about me:
