@@ -10,7 +10,7 @@
 - **[LinkedIn account](https://www.linkedin.com/in/heorhii-honcharov)**
 - **[Xing account](https://www.xing.com/profile/Heorhii_Honcharov)**
 
-
+---
 Interesting facts about me:
 - 🏊‍♂️ **as a child, I was professionally engaged in sports, namely: platform and springboard diving.**
 - 🎈 **i have always dreamed of skydiving, but so far my dream has not come true.**
