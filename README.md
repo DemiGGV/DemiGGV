@@ -1,4 +1,4 @@
-<h1>It's a 'welcome' header... 👨‍🎨</h1>
+<h1>This is  a 'welcome' header... 👨‍🎨</h1>
 
 ### Hi there, I'm Heorhii Honcharov 👋
 
