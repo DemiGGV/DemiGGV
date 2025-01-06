@@ -2,8 +2,8 @@
 
 ### Hi there, I'm Heorhii Honcharov 👋
 
-- 🔭 Working on **a lot of different stuff... really different**
-- 🌱 Learning **everything I can get my hands on... sometimes twice**
+- 🔭 Working on **a lot of different stuff...**
+- 🌱 Learning **everything I can get my hands on...**
 
 - 📪 You can find me:
 - **[Portfolio site](https://demiggv.github.io/webdeveloper-honcharov/)**
